@@ -1,0 +1,31 @@
+*{
+  background-color: white;
+}
+.header{
+  border: solid 4px black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: inline-block;
+  background-color: white;
+}
+.para{
+  background-color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: fixed
+  
+}
+.list{
+  margin-top: 40px;
+}
+.main {
+  display: flex;
+}
+
+.img {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.heading {
+  border: solid 4px blue;
+  display: inline;
+}
